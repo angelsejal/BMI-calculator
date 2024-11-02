@@ -1,1 +1,1 @@
-# BMI-calculator
+# BMI-calculator- Basically BMI -calculator is a application in which a person body mass is calculate based on height and weight. It will categorize in underweight,normal weight, overweight etc. The mainly technology used here is python.
